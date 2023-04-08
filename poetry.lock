@@ -2244,7 +2244,7 @@ version = "6.0.0"
 description = "web3.py"
 category = "main"
 optional = false
-python-versions = ">=3.7.2"
+python-versions = ">=3.6"
 files = [
     {file = "web3-6.0.0-py3-none-any.whl", hash = "sha256:abdeabec4c68e42caf2cc69eb0af026e0e15880ed9c514addfd2c363baae846f"},
     {file = "web3-6.0.0.tar.gz", hash = "sha256:6b925a19e4a0001337d8b2faa72577d6b7e8f9a8a9a0b98d8834cdf698cfc045"},

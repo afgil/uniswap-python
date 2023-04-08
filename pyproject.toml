@@ -23,7 +23,7 @@ classifiers = [
 unipy = "uniswap:main"
 
 [tool.poetry.dependencies]
-python = "^3.7.2"
+python = "^3.6.15"
 web3 = { version = "^5.31.4", allow-prereleases = true }
 click = "^8.0.3"
 python-dotenv = "*"

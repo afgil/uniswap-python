@@ -2240,7 +2240,7 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 
 [[package]]
 name = "web3"
-version = "6.0.0"
+version = "5.31.4"
 description = "web3.py"
 category = "main"
 optional = false

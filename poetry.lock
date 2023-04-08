@@ -1992,7 +1992,7 @@ importlib-metadata = {version = ">=4.8", markers = "python_version < \"3.10\""}
 Jinja2 = ">=3.0"
 packaging = ">=21.0"
 Pygments = ">=2.12"
-requests = ">=2.27.1"
+requests = ">=2.18.4"
 snowballstemmer = ">=2.0"
 sphinxcontrib-applehelp = "*"
 sphinxcontrib-devhelp = "*"

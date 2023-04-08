@@ -2238,18 +2238,6 @@ brotli = ["brotli (>=1.0.9)", "brotlicffi (>=0.8.0)", "brotlipy (>=0.6.0)"]
 secure = ["certifi", "cryptography (>=1.3.4)", "idna (>=2.0.0)", "ipaddress", "pyOpenSSL (>=0.14)", "urllib3-secure-extra"]
 socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 
-[[package]]
-name = "web3"
-version = "5.31.4"
-description = "web3.py"
-category = "main"
-optional = false
-python-versions = ">=3.6"
-files = [
-    {file = "web3-6.0.0-py3-none-any.whl", hash = "sha256:abdeabec4c68e42caf2cc69eb0af026e0e15880ed9c514addfd2c363baae846f"},
-    {file = "web3-6.0.0.tar.gz", hash = "sha256:6b925a19e4a0001337d8b2faa72577d6b7e8f9a8a9a0b98d8834cdf698cfc045"},
-]
-
 [package.dependencies]
 aiohttp = ">=3.7.4.post0"
 eth-abi = ">=4.0.0-b.2"
